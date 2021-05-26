@@ -14,7 +14,9 @@
       "vue": [
         "node_modules/vue/dist/vue.esm.js"
       ]
-    }
+    },
+    "jsx": "react",
+    "jsxFactory": "h"
   },
   "include": [
     "tests",
